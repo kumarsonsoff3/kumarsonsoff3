@@ -1,4 +1,5 @@
-![Profile Photo](https://i.postimg.cc/fTm6B97x/IMG-20211109-094634.jpg)
+<p align="center">
+  <img src="https://i.postimg.cc/fTm6B97x/IMG-20211109-094634.jpg">
 
 ## Hey there 👋
 ## I'm Priyanshu
@@ -11,7 +12,7 @@
 Front-end Developer, Tech writer, content creator, Freelancer..
 
 ```
-
+</p>
 <!--
 **kumarsonsoff3/kumarsonsoff3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
