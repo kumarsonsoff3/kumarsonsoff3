@@ -12,7 +12,16 @@
 Front-end Developer, Tech writer, content creator, Freelancer..
 
 ```
+  
+  
+ ![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=kumarsonsoff3&show_icons=true&theme=highcontrast)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumarsonsoff3&layout=compact)](https://github.com/kumarsonsoff3/github-readme-stats)
+
+
 </p>
+
+
 <!--
 **kumarsonsoff3/kumarsonsoff3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
