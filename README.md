@@ -40,14 +40,14 @@ Front-end Developer, Tech writer, content creator, Freelancer..
 <hr />
 <!-- My BLogs -->
 
-<h1 align="center"> <a href="https://https://kumarsonsoff.hashnode.dev//"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="25"/> Recent articles on Hashnode</a></h1>
+<h1 align="center"> <a href="https://kumarsonsoff.hashnode.dev//"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="25"/> Recent articles on Hashnode</a></h1>
 
 - [The most Uncommon HTML5 Tags you should know!](https://kumarsonsoff.hashnode.dev/the-most-uncommon-html5-tags)
 - A series of Blogs coming Soon...
 <hr />
 
 <h2 align="center">Contact Info </h2>
-  <p align="center">I may be contacted through my DM section through <a href="https://https://twitter.com/Kumar_Sons_off" target="_blank" rel="noopener noreferrer">Twitter</a> or via <a href="#contact" target="_blank" rel="noopener noreferrer">other Social's</a>.
+  <p align="center">I may be contacted through my DM section through <a href="https://twitter.com/Kumar_Sons_off" target="_blank" rel="noopener noreferrer">Twitter</a> or via <a href="#contact" target="_blank" rel="noopener noreferrer">other Social's</a>.
 
 
 <h1 align="center"> Here's My GitHub Stats </h1>
