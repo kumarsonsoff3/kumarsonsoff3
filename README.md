@@ -9,11 +9,11 @@ Hello! Welcome to my GitHub Profile! Thank you for Visiting 🙃
    
 <h4 align="center">A JavaScript 💛</h4>
 
-<p align="center">I'm a Front-end developer, Self-taught from <a href="https://freecodecamp.org">freecodecamp</a> and Udemy and some other online Resources 😃.
-I began my developer Journey in July 2021, starting at the very top of <a href="https://freecodecamp.org">freecodecamp</a> curriculum. I have picked up my knowledge of HTML, CSS, JavaScript. Also had Explored some of the areas of Python. Currently learning full-stack JavaScript, and working on Front-end libraries.
+<p align="center">I'm a Front-end developer, Self-taught from <a href="https://freecodecamp.org">freecodecamp</a> and <a href="https://www.udemy.com">Udemy</a> and some other online Resources 😃.
+I began my developer Journey in July 2021, starting at the very top of freecodecamp curriculum. I have picked up my knowledge of HTML, CSS, JavaScript. Also had Explored some of the areas of Python. Currently learning full-stack JavaScript, and working on Front-end libraries.
 <br/>
 <br/>
-Although, I believe that a good learner is one who can explain other's in the best possible way, so create content on Twitter about my new experiences and make Tech Blogs at Hashnode because these make me Explore topics more deeply to explain them better,so share a bit of my knowledge with my fellow developer's to help them grow better as developers, although to keep my stuff at one place 😄 , Growing market nowadays to reachout the community and Spend weekends by working on my Side projects but my Github is like unused 🥲. Let's now contribute some to Open-source, will now make repo's here on Github for my future Projects.
+Although, I believe that a good learner is one who can explain other's in the best possible way, so create content on Twitter about my new experiences and make Tech Blogs at <a href="https://hashnode.com/@Kumarsonsoff3">Hashnode</a> because these make me Explore topics more deeply to explain them better,so share a bit of my knowledge with my fellow developer's to help them grow better as developers, although to keep my stuff at one place 😄 , Growing market nowadays to reachout the community and Spend weekends by working on my Side projects but my Github is like unused 🥲.  Let's now contribute some to Open-source, will now make repo's here on Github for my future Projects.
 </p>
 
 <h3 align="center"> A Lot to go with ... Lets collaborate.</h3>
