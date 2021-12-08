@@ -26,8 +26,10 @@ Front-end Developer, Tech writer, content creator, Freelancer..
 <hr />
 <!-- My Socials -->
 <h1 align="center">Social Media</h1>
-<a align="center" href="https://twitter.com/Kumar_Sons_off"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Kumar_Sons_off?label=Twitter&style=for-the-badge&logo=twitter&color=1DA1F2"> </a>
-
+<p align="cenetr">
+<a href="" target="_blank" rel="noopener noreferrer"> <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Kumar_Sons_off?color=%231128d4&label=Priyanshu%20Kumawat&logo=twitter&style=plastic"></a>
+  
+</p>
 <hr />
 <!-- My BLogs -->
 
