@@ -46,12 +46,12 @@ Front-end Developer, Tech writer, content creator, Freelancer..
 - A series of Blogs coming Soon...
 <hr />
 
-<h2 align="center">Contact Info </h2>
-  <p align="center">I may be contacted through my DM section through <a href="https://twitter.com/Kumar_Sons_off" target="_blank" rel="noopener noreferrer">Twitter</a> or via <a href="#contact" target="_blank" rel="noopener noreferrer">other Social's</a>.
-
-
 <h1 align="center"> Here's My GitHub Stats </h1>
 
 ![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=kumarsonsoff3&show_icons=true&theme=highcontrast)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumarsonsoff3&layout=compact)](https://github.com/kumarsonsoff3/github-readme-stats)
+<hr/>
+
+<h2 align="center">Contact Info </h2>
+  <p align="center">I may be contacted through my DM section through <a href="https://twitter.com/Kumar_Sons_off" target="_blank" rel="noopener noreferrer">Twitter</a> or via <a href="#contact" target="_blank" rel="noopener noreferrer">other Social's</a>.
 
