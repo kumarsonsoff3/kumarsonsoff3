@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.postimg.cc/fTm6B97x/IMG-20211109-094634.jpg"><br/>
+<img src="./IMG_20211208_181225.jpg"><br/>
 Hello! Welcome to my GitHub Profile! Thank you for Visiting 🙃
 </p>
 <hr />
