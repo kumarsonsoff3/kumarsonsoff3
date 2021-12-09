@@ -23,6 +23,21 @@ JavaScript lover , Tech writer, content creator, Freelancer..
 ```
 
 <hr />
+<h1 align="center">My Tech Stacks and Tools</h1>
+<p>
+   <img width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+   <img width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+   <img width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+   <img width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
+</p>
+<p>
+   <img width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vscode/vscode.png">
+   <img width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/figma/figma.png">
+   <img width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github/github.png">
+</p>
+   
+   
+<hr/>
 <!-- My Socials -->
 <h1 align="center" id="contact">Social Media</h1>
 <p align="cenetr">
@@ -46,9 +61,12 @@ JavaScript lover , Tech writer, content creator, Freelancer..
 - A series of Blogs coming Soon...
 <hr />
 
-<h1 align="center"> Here's My GitHub Stats </h1>
+<h2 align="center">My GitHub Stats </h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumarsonsoff3&layout=compact)](https://github.com/kumarsonsoff3/github-readme-stats)
+![Priyanshu's GitHub stats](https://github-readme-stats-kumarsonsoff3.vercel.app/api?username=kumarsonsoff3&show_icons=true&count_private=true&theme=tokyonight&count_private=true&hide=prs)
+
+
+<!-- [![Top Langs](https://github-readme-stats-kumarsonsoff3.vercel.app/api/top-langs/?username=kumarsonsoff3&layout=compact)](https://github.com/kumarsonsoff3/github-readme-stats) -->
 
 <hr/>
 
