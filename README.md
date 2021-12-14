@@ -58,5 +58,5 @@ JavaScript lover , Tech writer, content creator, Freelancer..
 <hr/>
 
 <h2 align="center">Contact Info </h2>
-  <p align="center">I may be contacted through my DM section through <a href="https://twitter.com/Kumar_Sons_off" target="_blank" rel="noopener noreferrer">Twitter</a> or via <a href="#contact" target="_blank" rel="noopener noreferrer">other Social's</a>.
+  <p align="center">I may be contacted through my DM section through <a href="https://twitter.com/messages/compose?recipient_id=1423520982392705037&text=YOUR_TEXT_HERE" target="_blank" rel="noopener noreferrer">Twitter</a> or via <a href="#contact" target="_blank" rel="noopener noreferrer">other Social's</a>.
 
