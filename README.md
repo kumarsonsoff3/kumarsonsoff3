@@ -31,7 +31,7 @@ JavaScript lover , Tech writer, content creator, Freelancer..
 <a href="https://hashnode.com/@Kumarsonsoff3" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Priyanshu%20Kumawat-purple?logo=hashnode&logoColor=darkblue&color=white" /></a>
   <a href="https://www.instagram.com/Priyanshu_kumawat_off/" target="_blank" rel="noopener noreferrer"> <img alt="Instagram" src="https://img.shields.io/badge/Priyanshu%20Kumawat-blue?logo=instagram&logocolor=Pink&color=white"></a>
 <a href="https://linkedin.com/in/kumarsonsoff" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Priyanshu%20Kumawat-purple?logo=linkedin&logoColor=blue&color=blue" /></a>
-<a href="https://www.showcase.com/kumar_sons_off" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Codepen-Priyanshu%20Kumawat-purple?logo=codepen&logoColor=black&color=white" /></a>
+<a href="https://codepen.io/Kumar_Sons_off" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Codepen-Priyanshu%20Kumawat-purple?logo=codepen&logoColor=black&color=white" /></a>
   </p>
   
 <h3 align="center">My Github's last commit </h3>
