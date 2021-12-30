@@ -50,7 +50,7 @@ JavaScript lover , Tech writer, content creator, Freelancer..
 
 <h2 align="center">My GitHub Stats </h2>
 
-![Priyanshu's GitHub stats](https://github-readme-stats-kumarsonsoff3.vercel.app/api?username=kumarsonsoff3&show_icons=true&count_private=true&theme=tokyonight&count_private=true&hide=prs)
+![Priyanshu's GitHub stats](https://github-readme-stats-kumarsonsoff3.vercel.app/api?username=kumarsonsoff3&show_icons=true&count_private=true&theme=tokyonight&count_private=true)
 
 
 <!-- [![Top Langs](https://github-readme-stats-kumarsonsoff3.vercel.app/api/top-langs/?username=kumarsonsoff3&layout=compact)](https://github.com/kumarsonsoff3/github-readme-stats) -->
