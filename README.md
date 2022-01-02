@@ -34,10 +34,10 @@ JavaScript lover , Tech writer, content creator, Freelancer..
 <a href="https://codepen.io/Kumar_Sons_off" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Codepen-Priyanshu%20Kumawat-purple?logo=codepen&logoColor=black&color=white" /></a>
   </p>
   
-<h3 align="center">My Github's last commit </h3>
+<!-- <h3 align="center">last commit in this repo</h3>
 <p align="center">
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/kumarsonsoff3/kumarsonsoff3?style=for-the-badge">
-
+ -->
 </p>
 <hr />
 <!-- My BLogs -->
