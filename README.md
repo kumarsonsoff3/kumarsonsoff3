@@ -66,7 +66,7 @@ JavaScript lover , Tech writer, content creator, Freelancer..
 
 ![Priyanshu's GitHub stats](https://github-readme-stats-kumarsonsoff3.vercel.app/api?username=kumarsonsoff3&show_icons=true&count_private=true&theme=tokyonight&count_private=true)
 
-<img alt="My Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kumarsonsoff3&&theme=react-dark&hide_border=true">
+
 
 
 <!-- ![Top Langs](https://github-readme-stats-kumarsonsoff3.vercel.app/api/top-langs/?username=kumarsonsoff3&layout=compact) -->
