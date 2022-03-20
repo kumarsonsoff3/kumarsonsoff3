@@ -58,6 +58,7 @@ JavaScript lover , Tech writer, content creator, Freelancer..
 
 <h1 align="center"> <a href="https://kumarsonsoff.hashnode.dev//"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="25"/> Recent articles on Hashnode</a></h1>
 
+- [CSS Interview Questions](https://kumarsonsoff.hashnode.dev/css-interview-questions)
 - [Create Your Word Portrait using 2 lines of CSS](https://kumarsonsoff.hashnode.dev/word-portrait-using-css)
 - [The most Uncommon HTML5 Tags you should know!](https://kumarsonsoff.hashnode.dev/the-most-uncommon-html5-tags)
 
