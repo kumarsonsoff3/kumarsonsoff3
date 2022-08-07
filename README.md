@@ -7,7 +7,7 @@
 
 <hr />
 
-<h1 align="center">About Me</h1>
+<h2 align="center">About Me</h2>
 <h3 align="center">Hey there 👋, I'm Priyanshu</h3>
 <h4 align="center">A JavaScript 💛 | Open-Source | Content-Creator</h4>
 <br />
@@ -22,10 +22,39 @@
   areas of Python too!
   <br />
 </p>
+
+![short-details](https://user-images.githubusercontent.com/88786642/183301812-ca74d4ef-c288-4a4c-b370-7804354332df.png)
+
 <hr />
 
+<table>
+  <tr>
+    <th>Thoughts I belive in</th>
+    <th>Why</th>
+  </tr>
+  <tr>
+    <td>Open-Source is for Everyone</td>
+    <td>Because it is! 😄 No matters how much you know how to code. It's all about collaborative learning, you need not to be an expert to contribute to open-source! Just go ahead! 🧐</td>
+  </tr>
+  <tr>
+    <td>Focus on Quality instead of Quantity</td>
+    <td>Improve your quality and effectiveness of learning istead of the quantity, because no one cares how many tutorials you've gone through. 🤦‍♂️ They care about the skills you gain from that, they pay for your skills! ✨</td>
+  </tr>
+  <tr>
+    <td>Stop doubting yourself</td>
+    <td>Stop doubting yourself, you've the potential to achieve what you can think of! Things will not come to you, **Go ahead, actually put in the afforts**, and gain what you wanted to! </td>
+  </tr>
+  <tr>
+    <td>Nothing like failure ever Exist</td>
+    <td>I believe this & you should too, because it's all about learning what not to do to achieve something. You're just getting better with failures, which is the only important thing! 🎯</td>
+  </tr>
+  <tr>
+    <td colspan="2">Stop looking for the Shortcuts, Actually put in the Efforts! Remember you absolutely got this! 💪</td>
+  </tr>
+</table>
+
 <!-- My-Socials:start -->
-<h1 align="center" id="contact">Social Media</h1>
+<h2 align="center" id="contact">Social Media</h2><hr/>
 
 <p align="center">
   <a href="https://twitter.com/Kumar_Sons_off"
