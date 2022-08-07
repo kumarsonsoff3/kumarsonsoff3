@@ -25,7 +25,7 @@
 
 ![short-details](https://user-images.githubusercontent.com/88786642/183301812-ca74d4ef-c288-4a4c-b370-7804354332df.png)
 
-<hr />
+
 
 <table>
   <tr>
@@ -54,7 +54,7 @@
 </table>
 
 <!-- My-Socials:start -->
-<h2 align="center" id="contact">Social Media</h2><hr/>
+<h2 align="center" id="contact">Social Media</h2>
 
 <p align="center">
   <a href="https://twitter.com/Kumar_Sons_off"
@@ -110,7 +110,6 @@
 </ul>
 <!-- Hashnode-BLog-list:end -->
 
-<hr />
 
 <h2 align="center">Contact Info</h2>
 <p align="center">
