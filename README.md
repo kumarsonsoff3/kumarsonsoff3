@@ -38,11 +38,11 @@
   </tr>
   <tr>
     <td>Focus on Quality instead of Quantity</td>
-    <td>Improve your quality and effectiveness of learning istead of the quantity, because no one cares how many tutorials you've gone through. 🤦‍♂️ They care about the skills you gain from that, they pay for your skills! ✨</td>
+    <td>Improve your quality and effectiveness of learning instead of the quantity, because no one cares how many tutorials you've gone through. 🤦‍♂️ They care about the skills you gain from those, they pay for your skills, not for number! ✨</td>
   </tr>
   <tr>
     <td>Stop doubting yourself</td>
-    <td>Stop doubting yourself, you've the potential to achieve what you can think of! Things will not come to you, **Go ahead, actually put in the afforts**, and gain what you wanted to! </td>
+    <td>Stop doubting yourself, you've the potential to achieve what you can think of! Things will not come to you, <b>Go ahead, actually put in the afforts</b>, and gain what you wanted to! And believe be shortcuts are often dangerous!💀 </td>
   </tr>
   <tr>
     <td>Nothing like failure ever Exist</td>
