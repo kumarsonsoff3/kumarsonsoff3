@@ -23,14 +23,7 @@
   <br />
 </p>
 
-```js
-{
-   name: "Priyanshu Kumawat",
-   proficientAt: ["HTML", "CSS", "JavaScript", "React", "Tailwind", "Bootstrap", "SaSS"],
-   jobs: ["Content-Creator", "Open-Source", "Indie Hacker"],
-   vision: "Believe Open-Source is for Everyone, and will make you feel it's importance too! ❤"
-}
-```
+![short-details](https://user-images.githubusercontent.com/88786642/183301812-ca74d4ef-c288-4a4c-b370-7804354332df.png)
 
 <hr />
 
