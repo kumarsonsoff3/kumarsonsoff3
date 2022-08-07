@@ -49,7 +49,7 @@
     <td>I believe this & you should too, because it's all about learning what not to do to achieve something. You're just getting better with failures, which is the only important thing! 🎯</td>
   </tr>
   <tr>
-    <td colspan="2">Stop looking for the Shortcuts, Actually put in the Efforts! Remember you absolutely got this! 💪</td>
+    <td colspan="2" align="center">Stop looking for the Shortcuts, Actually put in the Efforts! Remember you absolutely got this! 💪</td>
   </tr>
 </table>
 
