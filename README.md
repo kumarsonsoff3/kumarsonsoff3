@@ -22,19 +22,9 @@
   areas of Python too!
   <br />
 </p>
-
-```js
-{
-   name: "Priyanshu Kumawat",
-   proficientAt: ["HTML", "CSS", "JavaScript", "React", "Tailwind", "Bootstrap", "SaSS"],
-   jobs: ["Content-Creator", "Open-Source", "Indie Hacker"],
-   vision: "Believe Open-Source is for Everyone, and will make you feel it's importance too! ❤"
-}
-```
-
 <hr />
 
-<!-- My_Socials:start -->
+<!-- My-Socials:start -->
 <h1 align="center" id="contact">Social Media</h1>
 
 <p align="center">
@@ -66,12 +56,12 @@
     />
   </a>
 </p>
-<!-- My_Socials:end  -->
+<!-- My-Socials:end  -->
 
 <hr />
 
-<!-- My_BLogs:start -->
-<h1 align="center">
+<!-- Hashnode-BLog-list:start -->
+<h2>
   <a href="https://kumarsonsoff.hashnode.dev//" target="_blank">
     <img
       src="https://github.com/FrancescoXX/FrancescoXX/blob/main/CDyAuTy75.png"
@@ -81,27 +71,23 @@
     />
     Recent articles on Hashnode
   </a>
-</h1>
+</h2>
 
-- [**Animation is Fun with GSAP**](https://kumarsonsoff.hashnode.dev/animation-is-fun-with-gsap)
-- [**CSS Interview Questions**](https://kumarsonsoff.hashnode.dev/css-interview-questions)
-- [**Create Your Word Portrait using 2 lines of CSS**](https://kumarsonsoff.hashnode.dev/word-portrait-using-css)
-- [**The most Uncommon HTML5 Tags you should know!**](https://kumarsonsoff.hashnode.dev/the-most-uncommon-html5-tags)
-
-<!-- My_BLogs:end -->
+<ul>
+<li><a href="https://kumarsonsoff.hashnode.dev/animation-is-fun-with-gsap">Animation is Fun with GSAP</a></li>
+<li><a href="https://kumarsonsoff.hashnode.dev/css-interview-questions">CSS Interview Questions</a></li>
+<li><a href="https://kumarsonsoff.hashnode.dev/word-portrait-using-css">Create Your Word Portrait using 2 lines of CSS</a></li>
+<li><a href="https://kumarsonsoff.hashnode.dev/the-most-uncommon-html5-tags">The most Uncommon HTML5 Tags you should know</a></li>
+</ul>
+<!-- Hashnode-BLog-list:end -->
 
 <hr />
 
 <h2 align="center">Contact Info</h2>
 <p align="center">
-  I may be contacted through my DM section through
-  <a
+  I may be contacted through my DM section on  <a
     href="https://twitter.com/messages/compose?recipient_id=1423520982392705037&text=YOUR_TEXT_HERE"
     target="_blank"
     rel="noopener noreferrer"
-    >Twitter</a
-  >
-  or via
-  <a href="#contact" target="_blank" rel="noopener noreferrer">other Social's</a
-  >.
+    >Twitter</a> or via  <a href="#contact" target="_blank" rel="noopener noreferrer">other Social's</a>.
 </p>
