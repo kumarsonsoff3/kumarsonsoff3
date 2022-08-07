@@ -12,5 +12,5 @@ jobs:
     - uses: actions/first-interaction@v1
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
-        issue-message: '<h1>Thanks for your contribution to this Project.🚀🚀🚀</h1> Your issue will be sorted as soon as our moderator [Priyanshu](https://github.com/kumarsonsoff3) will back online. We will be doing our best to sort this issue out soon.😄 Also, If you wanted to work on this, feel free ask to get assigned for this issue'
-        pr-message: '<h1>Thanks for your contribution to this Project.🤓</h1> Your contribution will shortly be Reviewed as soon as our moderator will back online. 🚀🚀
+        issue-message: '<h1>Thanks for your contribution to this Project.🚀</h1> Your issue will be sorted as soon as our moderator [Priyanshu](https://github.com/kumarsonsoff3) will back online. We will be doing our best to sort this issue out soon. Also, If you wanted to work on this, feel free ask to get assigned for this issue. 😉'
+        pr-message: '<h1>Thanks for your contribution to this Project.🤓</h1> Your contribution mean a lot to us, we will shortly be Review your PR as soon as our moderator will back online. 🚀
