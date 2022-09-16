@@ -42,7 +42,7 @@
   </tr>
   <tr>
     <td>Stop doubting yourself</td>
-    <td>Stop doubting yourself, you've the potential to achieve what you can think of! Things will not come to you, <b>Go ahead, actually put in the afforts</b>, and gain what you wanted to! And believe be shortcuts are often dangerous!💀 </td>
+    <td>Stop doubting yourself, you've the potential to achieve what you can think of! Things will not come to you, <b>Go ahead, actually put in the afforts</b>, and gain what you wanted to! And believe me shortcuts are often dangerous!💀 </td>
   </tr>
   <tr>
     <td>Nothing like failure ever Exist</td>
