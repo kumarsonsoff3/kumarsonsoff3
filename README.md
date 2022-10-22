@@ -1,9 +1,8 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/88786642/197320488-3d49aecd-01cb-4978-9241-c8b692720a78.png" /><br />
+<p align="center"><img src="https://user-images.githubusercontent.com/88786642/197327084-2d0cae22-8fa3-4229-a902-f01e0c05d9c5.png" /><br />
 Hello! Welcome to my GitHub Profile! Thank you for Visiting 🙃  I BELIEVE Open-Source is for Everyone and trust me, YOU can DO IT too! 🚀 </p>
 
-<p align="center">JavaScript 💛 | Open-Source | Content-Creator
+<p align="center"><b>JavaScript 💛 | Open-Source | Content-Creator</b>
 <br />
-
   I'm a Self-taught developer, learned development from
   <a href="https://freecodecamp.org">freecodecamp</a> and
   <a href="https://www.udemy.com">Udemy</a> and some other online Resources 😃.
