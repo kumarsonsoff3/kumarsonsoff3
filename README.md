@@ -14,7 +14,7 @@ Hello! Welcome to my GitHub Profile! Thank you for Visiting 🙃  I BELIEVE Open
   <hr />
 
 
-<!-- My-Socials:start -->
+<!-- Socials:start -->
 <p align="center" id="Socials">
   <a href="https://twitter.com/intent/follow?screen_name=Kumar_Sons_off"
     target="_blank"
@@ -41,10 +41,10 @@ Hello! Welcome to my GitHub Profile! Thank you for Visiting 🙃  I BELIEVE Open
       src="https://img.shields.io/badge/Priyanshu%20Kumawat-purple?logo=linkedin&logoColor=blue&color=grey&style=for-the-badge" />
   </a>
 </p>
-<!-- My-Socials:end  -->
+<!-- Socials:end  -->
 
 
-<!-- Hashnode-BLog-list:start -->
+
 <h2>
   <a href="https://kumarsonsoff.hashnode.dev//" target="_blank">
     <img
@@ -57,13 +57,14 @@ Hello! Welcome to my GitHub Profile! Thank you for Visiting 🙃  I BELIEVE Open
   </a>
 </h2>
 
+<!-- HASHNODE_BLOG:START -->
 <ul>
 <li><a href="https://kumarsonsoff.hashnode.dev/animation-is-fun-with-gsap">Animation is Fun with GSAP</a></li>
 <li><a href="https://kumarsonsoff.hashnode.dev/css-interview-questions">CSS Interview Questions</a></li>
 <li><a href="https://kumarsonsoff.hashnode.dev/word-portrait-using-css">Create Your Word Portrait using 2 lines of CSS</a></li>
 <li><a href="https://kumarsonsoff.hashnode.dev/the-most-uncommon-html5-tags">The most Uncommon HTML5 Tags you should know</a></li>
 </ul>
-<!-- Hashnode-BLog-list:end -->
+<!-- HASHNODE_BLOG:START -->
 
 
 <h2 align="center">Contact Info</h2>
