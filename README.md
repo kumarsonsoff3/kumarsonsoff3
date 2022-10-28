@@ -1,4 +1,4 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/88786642/197327084-2d0cae22-8fa3-4229-a902-f01e0c05d9c5.png" /><br />
+<p align="center"><a href="https://twitter.com/Kumar_Sons_off" target="_blank"><img src="https://user-images.githubusercontent.com/88786642/197327084-2d0cae22-8fa3-4229-a902-f01e0c05d9c5.png" alternate="Hero_Profile_Image"/><br />
 Hello! Welcome to my GitHub Profile! Thank you for Visiting 🙃  I BELIEVE Open-Source is for Everyone and trust me, YOU can DO IT too! 🚀 </p>
 
 <p align="center"><b>JavaScript 💛 | Open-Source | Content-Creator</b>
@@ -53,17 +53,11 @@ Hello! Welcome to my GitHub Profile! Thank you for Visiting 🙃  I BELIEVE Open
       alt="Hashnode blog"
       width="25"
     />
-    Recent articles on Hashnode
+    Recent Blogs on Hashnode
   </a>
 </h2>
 
 <!-- HASHNODE_BLOG:START -->
-<ul>
-<li><a href="https://kumarsonsoff.hashnode.dev/animation-is-fun-with-gsap">Animation is Fun with GSAP</a></li>
-<li><a href="https://kumarsonsoff.hashnode.dev/css-interview-questions">CSS Interview Questions</a></li>
-<li><a href="https://kumarsonsoff.hashnode.dev/word-portrait-using-css">Create Your Word Portrait using 2 lines of CSS</a></li>
-<li><a href="https://kumarsonsoff.hashnode.dev/the-most-uncommon-html5-tags">The most Uncommon HTML5 Tags you should know</a></li>
-</ul>
 <!-- HASHNODE_BLOG:START -->
 
 
