@@ -3,7 +3,7 @@ name: "📚 Blog Updater"
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 * * * *' 
+    - cron: '0 */24 * * *' 
 
 jobs:
   update_blogs:
@@ -17,9 +17,8 @@ jobs:
       - name: "📚  Hashnode Updater"
         uses: "varunsridharan/action-hashnode-blog@1.1.1"
         with:
-          COMMENT_TAG_NAME: 'HASHNODE_BLOG'
-          USERNAME: 'kumarsonsoff3' # Hashnode Username
-          COUNT: 3 # MAX Visisble
+          USERNAME: 'Kumarsonsoff3' # Hashnode Username
+          COUNT: 4 # MAX Visisble
           STYLE: "blog-alternate"
           BLOG_URL: "https://kumarsonsoff.hashnode.dev/"
         env:
