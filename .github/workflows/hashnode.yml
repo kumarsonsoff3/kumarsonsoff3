@@ -10,11 +10,6 @@ jobs:
     name: "Update Blogs"
     runs-on: ubuntu-latest
     steps:
-      - name: Setup Node
-        uses: actions/setup-node@v1
-        with: 
-          node-version: '16.0'
-      
       - name: "📥  Fetching Repository Contents"
         uses: actions/checkout@main
 
@@ -24,7 +19,7 @@ jobs:
         with:
           USERNAME: 'kumarsonsoff3' # Hashnode Username
           COUNT: 3 # MAX Visisble
-          STYLE: "blog-left"
+          STYLE: "blog-alternate"
           BLOG_URL: "https://kumarsonsoff.hashnode.dev/"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
