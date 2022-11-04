@@ -1,4 +1,4 @@
-<p align="center"><a href="https://twitter.com/Kumar_Sons_off" target="_blank"><img src="https://user-images.githubusercontent.com/88786642/197327084-2d0cae22-8fa3-4229-a902-f01e0c05d9c5.png" alternate="Hero_Profile_Image"/><br />
+<p align="center"><a href="https://twitter.com/Kumar_Sons_off" target="_blank"><img src="https://user-images.githubusercontent.com/88786642/197327084-2d0cae22-8fa3-4229-a902-f01e0c05d9c5.png" alternate="Hero_Profile_Image"/><br /></a>
 Hello! Welcome to my GitHub Profile! Thank you for Visiting 🙃  I BELIEVE Open-Source is for Everyone and trust me, YOU can DO IT too! 🚀 </p>
 
 <p align="center"><b>JavaScript 💛 | Open-Source | Content-Creator</b>
