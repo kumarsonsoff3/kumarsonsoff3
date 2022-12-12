@@ -1,4 +1,7 @@
-<p align="center"><a href="https://twitter.com/Kumar_Sons_off" target="_blank"><img src="https://user-images.githubusercontent.com/88786642/197327084-2d0cae22-8fa3-4229-a902-f01e0c05d9c5.png" alternate="Hero_Profile_Image"/><br /></a>
+<p align="center">
+  <a href="https://twitter.com/Kumar_Sons_off" target="_blank">
+   <img src="https://user-images.githubusercontent.com/88786642/206983358-bb79c849-4615-44f1-bbb1-92bffbc93233.png" alternate="Hero_Profile_Image"/><br />
+  </a>
 Hello! Welcome to my GitHub Profile! Thank you for Visiting 🙃  I BELIEVE Open-Source is for Everyone and trust me, YOU can DO IT too! 🚀 </p>
 
 <p align="center"><b>JavaScript 💛 | Open-Source | Content-Creator</b>
@@ -47,12 +50,7 @@ Hello! Welcome to my GitHub Profile! Thank you for Visiting 🙃  I BELIEVE Open
 
 <h2>
   <a href="https://kumarsonsoff.hashnode.dev//" target="_blank">
-    <img
-      src="https://github.com/FrancescoXX/FrancescoXX/blob/main/CDyAuTy75.png"
-      title="Hashnode"
-      alt="Hashnode blog"
-      width="25"
-    />
+    <img width="25" alt="Hashnode-Blog" src="https://user-images.githubusercontent.com/88786642/206984104-529daf0c-d6a1-4df7-94e2-43d9338ee816.png"\>
     Recent Blogs on Hashnode
   </a>
 </h2>
@@ -78,6 +76,7 @@ Hello! Welcome to my GitHub Profile! Thank you for Visiting 🙃  I BELIEVE Open
 
 <hr/>
 
+<!--
 <table>
   <tr>
     <th>Thoughts I belive in</th>
@@ -103,3 +102,4 @@ Hello! Welcome to my GitHub Profile! Thank you for Visiting 🙃  I BELIEVE Open
     <td colspan="2" align="center">Stop looking for the Shortcuts, Actually put in the Efforts! Remember you absolutely got this! 💪</td>
   </tr>
 </table>
+-->
