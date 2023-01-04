@@ -56,6 +56,10 @@ Hello! Welcome to my GitHub Profile! Thank you for Visiting 🙃  I BELIEVE Open
 </h2>
 
 <!-- HASHNODE_BLOG:START -->
+- [Animation is Fun with GSAP](https://kumarsonsoff.hashnode.dev//animation-is-fun-with-gsap)
+- [CSS Interview Questions](https://kumarsonsoff.hashnode.dev//css-interview-questions)
+- [Create Your Word Portrait Using CSS](https://kumarsonsoff.hashnode.dev//word-portrait-using-css)
+- [The most Uncommon HTML5 Tags you should know!](https://kumarsonsoff.hashnode.dev//the-most-uncommon-html5-tags)
 <!-- HASHNODE_BLOG:END -->
 
 
