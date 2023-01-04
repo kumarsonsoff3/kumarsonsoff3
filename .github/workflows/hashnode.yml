@@ -19,5 +19,6 @@ jobs:
           USERNAME: 'kumarsonsoff3' # Hashnode Username
           BLOG_URL: 'https://kumarsonsoff.hashnode.dev/' # Blog URL
           COUNT: 4 # MAX Visisble
+          STYLE: "blog-alternate"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
