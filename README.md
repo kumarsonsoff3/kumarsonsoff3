@@ -62,26 +62,24 @@ Hello! Welcome to my GitHub Profile! Thank you for Visiting 🙃  I BELIEVE Open
 <div><strong>20 May 2022</strong> | <strong>Updated: 21 May 2022</strong></div>
 <br/> When it comes to CSS animations, we know these are the most complicated yet important ones for a webpage/web app. Animations help the webpage to interact with the users and keep them engaged. Sometimes while creating complex animations using the CSS ... </p> <br/> <br/>
 <p align="left">
-<a href="https://kumarsonsoff.hashnode.dev//css-interview-questions" title="CSS Interview Questions"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1647785529564/2uwq_rk2P.png" alt="CSS Interview Questions" width="250px" align="right" /></a>
+<a href="https://kumarsonsoff.hashnode.dev//comeback-after-long-time" title="Come Back After Long 8 Months 💥"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1670952312278/31hoZQKUl5.jpeg" alt="Come Back After Long 8 Months 💥" width="250px" align="right" /></a>
+<a href="https://kumarsonsoff.hashnode.dev//comeback-after-long-time" title="Come Back After Long 8 Months 💥"><strong>Come Back After Long 8 Months 💥</strong></a>
+<div><strong>21 Jan 2023</strong> | <strong>Updated: 21 Jan 2023</strong></div>
+<br/> Hey everyone, 👋 I'm not sure if you remember me or not, because it has been way long since I've written something to you here. Some of you might be thinking who is this new person in your notifications or inbox? 😂
+Don't worry, I'll not spam you. Yo... </p> <br/> <br/>
+<p align="left">
+<a href="https://kumarsonsoff.hashnode.dev//css-interview-questions" title="CSS Interview Questions"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1647785529564/2uwq_rk2P.png" alt="CSS Interview Questions" width="250px" align="left" /></a>
 <a href="https://kumarsonsoff.hashnode.dev//css-interview-questions" title="CSS Interview Questions"><strong>CSS Interview Questions</strong></a>
 <div><strong>20 Mar 2022</strong> | <strong>Updated: 21 Mar 2022</strong></div>
 <br/> Hey Readers, hope you all are good and doing great. In today's world of tech, it's not easy to land a job while it's impossible to know answers to all questions that an interviewer may ask you. 
 People have no idea of what kind of questions should th... </p> <br/> <br/>
 <p align="left">
-<a href="https://kumarsonsoff.hashnode.dev//word-portrait-using-css" title="Create Your Word Portrait Using CSS"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1647691454099/Rx43D2x3d.png" alt="Create Your Word Portrait Using CSS" width="250px" align="left" /></a>
+<a href="https://kumarsonsoff.hashnode.dev//word-portrait-using-css" title="Create Your Word Portrait Using CSS"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1647691454099/Rx43D2x3d.png" alt="Create Your Word Portrait Using CSS" width="250px" align="right" /></a>
 <a href="https://kumarsonsoff.hashnode.dev//word-portrait-using-css" title="Create Your Word Portrait Using CSS"><strong>Create Your Word Portrait Using CSS</strong></a>
 <div><strong>7 Feb 2022</strong> | <strong>Updated: 20 Mar 2022</strong></div>
 <br/> In this article, I'll introduce you to the background-clip property of CSS, with the help of which, we will make our Word portrait. Even if you are a beginner at CSS and HTML, you'll be able to do that. 😃
 
 You might have seen a word portrait? ofcour... </p> <br/> <br/>
-<p align="left">
-<a href="https://kumarsonsoff.hashnode.dev//the-most-uncommon-html5-tags" title="The most Uncommon HTML5 Tags you should know!"><img src="https://cdn.hashnode.com/res/hashnode/image/unsplash/Z2c6ounF-iE/upload/v1647610379868/rnLkTmisT.jpeg" alt="The most Uncommon HTML5 Tags you should know!" width="250px" align="right" /></a>
-<a href="https://kumarsonsoff.hashnode.dev//the-most-uncommon-html5-tags" title="The most Uncommon HTML5 Tags you should know!"><strong>The most Uncommon HTML5 Tags you should know!</strong></a>
-<div><strong>10 Dec 2021</strong> | <strong>Updated: 20 Mar 2022</strong></div>
-<br/> Hey Readers, 👋
-Priyanshu here. I'm a self-taught web developer.
-Web development is an interesting yet challenging approach so here I'm sharing my bit of knowledge to abate complexity for you all.
- HTML is the standard markup language for documents d... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
