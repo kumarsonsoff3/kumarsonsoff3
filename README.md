@@ -73,13 +73,6 @@ Don't worry, I'll not spam you. Yo... </p> <br/> <br/>
 <div><strong>20 Mar 2022</strong> | <strong>Updated: 21 Mar 2022</strong></div>
 <br/> Hey Readers, hope you all are good and doing great. In today's world of tech, it's not easy to land a job while it's impossible to know answers to all questions that an interviewer may ask you. 
 People have no idea of what kind of questions should th... </p> <br/> <br/>
-<p align="left">
-<a href="https://kumarsonsoff.hashnode.dev//word-portrait-using-css" title="Create Your Word Portrait Using CSS"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1647691454099/Rx43D2x3d.png" alt="Create Your Word Portrait Using CSS" width="250px" align="right" /></a>
-<a href="https://kumarsonsoff.hashnode.dev//word-portrait-using-css" title="Create Your Word Portrait Using CSS"><strong>Create Your Word Portrait Using CSS</strong></a>
-<div><strong>7 Feb 2022</strong> | <strong>Updated: 20 Mar 2022</strong></div>
-<br/> In this article, I'll introduce you to the background-clip property of CSS, with the help of which, we will make our Word portrait. Even if you are a beginner at CSS and HTML, you'll be able to do that. 😃
-
-You might have seen a word portrait? ofcour... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
