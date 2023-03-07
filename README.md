@@ -63,16 +63,10 @@ Hello! Welcome to my GitHub Profile! Thank you for Visiting 🙃  I BELIEVE Open
 <br/> Hey everyone, 👋 I'm not sure if you remember me or not, because it has been way long since I've written something to you here. Some of you might be thinking who is this new person in your notifications or inbox? 😂
 Don't worry, I'll not spam you. Yo... </p> <br/> <br/>
 <p align="left">
-<a href="https://kumarsonsoff.hashnode.dev//animation-is-fun-with-gsap" title="Animation is Fun with GSAP"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1653021974606/pDGfJ1aHcj.gif" alt="Animation is Fun with GSAP" width="250px" align="right" /></a>
+<a href="https://kumarsonsoff.hashnode.dev//animation-is-fun-with-gsap" title="Animation is Fun with GSAP"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1653021974606/pDGfJ1aHcj.gif" alt="Animation is Fun with GSAP" width="250px" align="left" /></a>
 <a href="https://kumarsonsoff.hashnode.dev//animation-is-fun-with-gsap" title="Animation is Fun with GSAP"><strong>Animation is Fun with GSAP</strong></a>
 <div><strong>20 May 2022</strong> | <strong>Updated: 21 May 2022</strong></div>
 <br/> When it comes to CSS animations, we know these are the most complicated yet important ones for a webpage/web app. Animations help the webpage to interact with the users and keep them engaged. Sometimes while creating complex animations using the CSS ... </p> <br/> <br/>
-<p align="left">
-<a href="https://kumarsonsoff.hashnode.dev//css-interview-questions" title="CSS Interview Questions"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1647785529564/2uwq_rk2P.png" alt="CSS Interview Questions" width="250px" align="left" /></a>
-<a href="https://kumarsonsoff.hashnode.dev//css-interview-questions" title="CSS Interview Questions"><strong>CSS Interview Questions</strong></a>
-<div><strong>20 Mar 2022</strong> | <strong>Updated: 21 Mar 2022</strong></div>
-<br/> Hey Readers, hope you all are good and doing great. In today's world of tech, it's not easy to land a job while it's impossible to know answers to all questions that an interviewer may ask you. 
-People have no idea of what kind of questions should th... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
