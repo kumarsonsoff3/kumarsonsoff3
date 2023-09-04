@@ -69,6 +69,11 @@ Don't worry, I'll not spam you. Yo... </p> <br/> <br/>
 <br/> When it comes to CSS animations, we know these are the most complicated yet important ones for a webpage/web app. Animations help the webpage to interact with the users and keep them engaged. Sometimes while creating complex animations using the CSS ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
+<p align="center">
+  <a href="https://kumarsonsoff.hashnode.dev/"> 
+   <img src="https://user-images.githubusercontent.com/88786642/219969383-8e24ecd1-9e2d-403f-ada8-104f143ffd28.png" />
+  </a>
+</p>
 
 <h2 align="center">Contact Info</h2>
 <p align="center">
