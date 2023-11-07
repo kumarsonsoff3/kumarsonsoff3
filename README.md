@@ -30,7 +30,7 @@ Hello! Welcome to my GitHub Profile! Thank you for Visiting 🙃  I BELIEVE Open
     <img
       src="https://img.shields.io/badge/Priyanshu%20Kumawat-purple?logo=hashnode&logoColor=darkblue&color=white&style=for-the-badge" />
   </a>
-  <a href="https://www.instagram.com/Priyanshu_kumawat_off/"
+  <a href="https://www.instagram.com/priyanshukkumawat/"
     target="_blank"
     rel="noopener noreferrer" >
     <img
@@ -45,8 +45,6 @@ Hello! Welcome to my GitHub Profile! Thank you for Visiting 🙃  I BELIEVE Open
   </a>
 </p>
 <!-- Socials:end  -->
-
-
 
 <h2>
   <a href="https://kumarsonsoff.hashnode.dev//" target="_blank">
@@ -85,31 +83,3 @@ Don't worry, I'll not spam you. Yo... </p> <br/> <br/>
 </p>
 
 <hr/>
-
-<!--
-<table>
-  <tr>
-    <th>Thoughts I belive in</th>
-    <th>Why</th>
-  </tr>
-  <tr>
-    <td>Open-Source is for Everyone</td>
-    <td>Because it is! 😄 No matters how much you know how to code. It's all about collaborative learning, you need not to be an expert to contribute to open-source! Just go ahead! 🧐</td>
-  </tr>
-  <tr>
-    <td>Focus on Quality instead of Quantity</td>
-    <td>Improve your quality and effectiveness of learning instead of the quantity, because no one cares how many tutorials you've gone through. 🤦‍♂️ They care about the skills you gain from those, they pay for your skills, not for number! ✨</td>
-  </tr>
-  <tr>
-    <td>Stop doubting yourself</td>
-    <td>Stop doubting yourself, you've the potential to achieve what you can think of! Things will not come to you, <b>Go ahead, actually put in the afforts</b>, and gain what you wanted to! And believe me shortcuts are often dangerous!💀 </td>
-  </tr>
-  <tr>
-    <td>Nothing like failure ever Exist</td>
-    <td>I believe this & you should too, because it's all about learning what not to do to achieve something. You're just getting better with failures, which is the only important thing! 🎯</td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">Stop looking for the Shortcuts, Actually put in the Efforts! Remember you absolutely got this! 💪</td>
-  </tr>
-</table>
--->
