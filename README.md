@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://twitter.com/Kumar_Sons_off" target="_blank">
+  <a href="https://twitter.com/kumarsonsoff" target="_blank">
    <img src="https://user-images.githubusercontent.com/88786642/206983358-bb79c849-4615-44f1-bbb1-92bffbc93233.png" alternate="Hero_Profile_Image"/><br />
   </a>
 Hello! Welcome to my GitHub Profile! Thank you for Visiting 🙃  I BELIEVE Open-Source is for Everyone and trust me, YOU can DO IT too! 🚀 </p>
@@ -19,7 +19,7 @@ Hello! Welcome to my GitHub Profile! Thank you for Visiting 🙃  I BELIEVE Open
 
 <!-- Socials:start -->
 <p align="center" id="Socials">
-  <a href="https://twitter.com/intent/follow?screen_name=Kumar_Sons_off"
+  <a href="https://twitter.com/intent/follow?screen_name=kumarsonsoff"
     target="_blank"
     rel="noopener noreferrer">
      <img alt="Twitter" src="https://img.shields.io/twitter/follow/Kumar_Sons_off?color=Red&label=Priyanshu%20Kumawat&logo=Twitter&logoColor=Blue&style=for-the-badge"  />
