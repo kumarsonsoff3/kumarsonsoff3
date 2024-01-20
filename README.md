@@ -4,7 +4,7 @@
   </a>
 Hello! Welcome to my GitHub Profile! Thank you for Visiting 🙃  I BELIEVE Open-Source is for Everyone and trust me, YOU can DO IT too! 🚀 </p>
 
-<p align="center"><b>Open-Source Advocate • Content-Creator • Technical writer • </b>
+<p align="center"><b>Open-Source Advocate • Content-Creator • Technical writer </b>
 <br />
 <br />
   I'm a Self-taught developer, learned development from
