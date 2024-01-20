@@ -1,17 +1,18 @@
 <p align="center">
   <a href="https://twitter.com/kumarsonsoff" target="_blank">
-   <img src="https://user-images.githubusercontent.com/88786642/206983358-bb79c849-4615-44f1-bbb1-92bffbc93233.png" alternate="Hero_Profile_Image"/><br />
+   <img src="https://github.com/kumarsonsoff3/kumarsonsoff3/assets/88786642/7611c28d-2beb-4a6a-8aaa-d3a24d0062be" alternate="Hero_Profile_Image"/><br />
   </a>
 Hello! Welcome to my GitHub Profile! Thank you for Visiting 🙃  I BELIEVE Open-Source is for Everyone and trust me, YOU can DO IT too! 🚀 </p>
 
-<p align="center"><b>JavaScript 💛 | Open-Source | Content-Creator</b>
+<p align="center"><b>Open-Source Advocate • Content-Creator • Technical writer • </b>
+<br />
 <br />
   I'm a Self-taught developer, learned development from
   <a href="https://freecodecamp.org">freecodecamp</a> and
   <a href="https://www.udemy.com">Udemy</a> and some other online Resources 😃.
   I began my developer Journey starting at the very top of freecodecamp
   curriculum. I have picked up my knowledge of HTML, CSS, JavaScript, worked
-  with Front-end libraries, build several projects. Also, I've explored some
+  with Front-end libraries like React and frameworks like NextJs too. Also, I've explored some
   areas of Python too!
   <br />
   <hr />
@@ -22,26 +23,26 @@ Hello! Welcome to my GitHub Profile! Thank you for Visiting 🙃  I BELIEVE Open
   <a href="https://twitter.com/intent/follow?screen_name=kumarsonsoff"
     target="_blank"
     rel="noopener noreferrer">
-     <img alt="Twitter" src="https://img.shields.io/twitter/follow/Kumar_Sons_off?color=Red&label=Priyanshu%20Kumawat&logo=Twitter&logoColor=Blue&style=for-the-badge"  />
+     <img alt="Twitter" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FKumarsonsoff&logo=x&label=X%20(Formerly%20Twitter)"  />
   </a>
   <a href="https://hashnode.com/@Kumarsonsoff3"
     target="_blank"
     rel="noopener noreferrer" >
     <img
-      src="https://img.shields.io/badge/Priyanshu%20Kumawat-purple?logo=hashnode&logoColor=darkblue&color=white&style=for-the-badge" />
+      src="https://img.shields.io/badge/Hashnode-purple?logo=hashnode&logoColor=darkblue&color=white" />
   </a>
   <a href="https://www.instagram.com/priyanshukkumawat/"
     target="_blank"
     rel="noopener noreferrer" >
     <img
       alt="Instagram"
-      src="https://img.shields.io/badge/Priyanshu%20Kumawat-blue?logo=instagram&logocolor=Pink&color=white&style=for-the-badge" />
+      src="https://img.shields.io/badge/Instagram-blue?logo=instagram&logocolor=Pink&color=white" />
   </a>
   <a href="https://linkedin.com/in/kumarsonsoff"
     target="_blank"
     rel="noopener noreferrer">
       <img
-      src="https://img.shields.io/badge/Priyanshu%20Kumawat-purple?logo=linkedin&logoColor=blue&color=grey&style=for-the-badge" />
+      src="https://img.shields.io/badge/LinkedIn-purple?logo=linkedin&logoColor=blue&color=white" />
   </a>
 </p>
 <!-- Socials:end  -->
