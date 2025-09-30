@@ -56,12 +56,6 @@ Hello! Welcome to my GitHub Profile! Thank you for Visiting 🙃  I BELIEVE Open
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://kumarsonsoff.hashnode.dev//comeback-after-long-time" title="Come Back After Long 8 Months 💥"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1670952312278/31hoZQKUl5.jpeg" alt="Come Back After Long 8 Months 💥" width="250px" align="left" /></a>
-<a href="https://kumarsonsoff.hashnode.dev//comeback-after-long-time" title="Come Back After Long 8 Months 💥"><strong>Come Back After Long 8 Months 💥</strong></a>
-<div><strong>21 Jan 2023</strong> | <strong>Updated: 21 Jan 2023</strong></div>
-<br/> Hey everyone, 👋 I'm not sure if you remember me or not, because it has been way long since I've written something to you here. Some of you might be thinking who is this new person in your notifications or inbox? 😂
-Don't worry, I'll not spam you. Yo... </p> <br/> <br/>
-<p align="left">
 <a href="https://kumarsonsoff.hashnode.dev//animation-is-fun-with-gsap" title="Animation is Fun with GSAP"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1653021974606/pDGfJ1aHcj.gif" alt="Animation is Fun with GSAP" width="250px" align="left" /></a>
 <a href="https://kumarsonsoff.hashnode.dev//animation-is-fun-with-gsap" title="Animation is Fun with GSAP"><strong>Animation is Fun with GSAP</strong></a>
 <div><strong>20 May 2022</strong> | <strong>Updated: 21 May 2022</strong></div>
